@@ -1,1 +1,0 @@
-printf('fly to vulcan')
